@@ -47,8 +47,8 @@ class MyApp extends StatelessWidget{
                 Stack(
                   alignment: Alignment.center,
                   children: [
-                    Container(width: 150,height: 150, color: colors.grey,),
-                    Icon(Icon.person)
+                    Container(width: 150,height: 150, color: Colors.grey,),
+                    Icon(Icons.person)
                   ],
                 )
               ],
